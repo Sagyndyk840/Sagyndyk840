@@ -1,32 +1,40 @@
-# 👋 Привет! Я Sagindik
+# Привет! Я Sagindik
 
-🎯 Frontend-разработчик со специализацией на **Vue 3**, **Nuxt 3**, **TypeScript**, **Pinia** и современном UI.
-
-## 🛠️ Стек технологий
-
-- 🧩 **Фреймворки:** Vue.js, Nuxt.js, Quasar
-- 🧠 **Состояние:** Pinia, Vuex
-- 🎨 **Стилизация:** Tailwind CSS, SCSS
-- 🌐 **Архитектура:** Composition API, SSR, SPA, REST API
-- 📦 **Инструменты:** Git, Vite, Webpack, Figma
-
-## 🚀 Чем занимаюсь
-
-- Разрабатываю масштабируемые, мультиязычные и отзывчивые интерфейсы
-- Интегрирую API и реализую сложную бизнес-логику
-- Постоянно совершенствуюсь и изучаю новые технологии
-
-## 📈 GitHub Статистика
-
-![Sagindik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagindik2003&show_icons=true&theme=vue-dark&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagindik2003&layout=compact&theme=vue-dark)
-
-## 📫 Связь
-
-- Telegram: [@sagindik2003](https://t.me/sagindik2003)
-- Email: sagindik2003@gmail.com
-- LinkedIn: *(укажи, если есть)*
+Frontend-разработчик, специализируюсь на создании современных web-приложений с использованием **Vue 3**, **Nuxt 3**, **TypeScript**, **Pinia** и других технологий.
 
 ---
 
-> 💡 Открыт к интересным предложениям и совместным проектам!
+## 🔧 Технологии и инструменты
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
+
+---
+
+## О себе
+
+- Разрабатываю адаптивные, мультиязычные и быстрые интерфейсы
+- Опыт работы с SSR, SPA, REST API, UI/UX
+- Использую **Composition API**, **Pinia**, **Tailwind CSS**
+- Постоянно изучаю новые технологии и подходы
+
+---
+
+## Контакты
+
+- Telegram: [@sagindik2003](https://t.me/sagindik2003)
+- Email: sagindik2003@gmail.com
+
+---
+
+> Открыт для интересных проектов и сотрудничества
