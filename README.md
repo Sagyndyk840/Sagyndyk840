@@ -4,7 +4,7 @@ Frontend-разработчик, специализируюсь на созда�
 
 ---
 
-## 🔧 Технологии и инструменты
+## Технологии и инструменты
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
@@ -16,7 +16,6 @@ Frontend-разработчик, специализируюсь на созда�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
 ---
@@ -32,7 +31,7 @@ Frontend-разработчик, специализируюсь на созда�
 
 ## Контакты
 
-- Telegram: [@sagindik2003](https://t.me/sagindik2003)
+- Telegram: [@Sagyndyq03](https://t.me/Sagyndyq03)
 - Email: sagindik2003@gmail.com
 
 ---
